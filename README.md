@@ -40,4 +40,4 @@ Hi! I'm Awadhi Sharma (a.k.a awadhi-s), and I'm a Developer. I love:
 <p align="center">
   <img src="your-anime-gif-or-image.gif" alt="Thank You" width="400"/>
 </p>
-(https://github.com/awadhi-s/awadhi-s/blob/output/github-contribution-grid-snake.svg)
+
