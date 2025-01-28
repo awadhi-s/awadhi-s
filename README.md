@@ -11,6 +11,11 @@ Hi! I'm Awadhi Sharma (a.k.a awadhi-s), and I'm a Developer. I love:
 - 🌌 Experimenting with new technologies.
 
 ---
+<div align=center>
+
+  <img alt="snake grid" src="https://github.com/Shr11/Shr11/blob/output/github-snake-dark.svg">
+  
+</div>
 
 ## ⚔️ Skills & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
