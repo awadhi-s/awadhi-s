@@ -32,7 +32,7 @@ Hi! I'm Awadhi Sharma (a.k.a awadhi-s), and I'm a Developer. I love:
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-
+[![awadhi-s's GitHub | Stats](https://stats.quira.sh/awadhi-s/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=awadhi-s)
 
 ---
 
